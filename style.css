@@ -1,0 +1,18 @@
+/* General body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    line-height: 1.6;
+}
+
+/* Blog card title */
+.card-title {
+    color: #343a40; /* Darker shade for better contrast */
+    font-weight: 600;
+}
+
+/* Blog card text */
+.card-text {
+    color: #495057;
+}
